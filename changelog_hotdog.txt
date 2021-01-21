@@ -1,0 +1,2 @@
+Device changes:
+* Fixed the bug where systemui crashes and throw you back to lockscreen when trying to add another google account
